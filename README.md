@@ -1,2 +1,3 @@
-# web-site-explicativo
-Meu website explicativo sobre HTML, CSS, JavaScript, React e Node.js
+## Comando pra criar app React Vite
+
+> npm create vite@latest . --template react
