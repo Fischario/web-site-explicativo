@@ -1,0 +1,18 @@
+header {
+    border-bottom: 2px solid var(--cor-primaria);
+    h1 {
+        margin: 16px;
+        margin-bottom: 10px;
+    }
+}
+
+.header-buttons {
+    margin: 6px;
+    margin-bottom: 14px;
+}
+
+#header-buttons-box {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}

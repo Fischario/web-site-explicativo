@@ -1,0 +1,21 @@
+#button-box {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.home-buttons {
+    margin: 5px;
+}
+
+a {
+    display: flex;
+    text-decoration: none;
+    width: fit-content;
+}
+
+#header-home {
+    h1 {
+        padding-bottom: 10px;
+    }
+}
