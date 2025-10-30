@@ -1,0 +1,15 @@
+@import url('../../index.css');
+
+.divs-nodejs {
+    border: 3px solid var(--cor-primaria);
+    border-radius: 16px;
+    padding: 6px;
+    margin: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    transition: transform 0.2s;
+}
+
+.divs-nodejs:hover {
+    transform: scale(1.05);
+}
